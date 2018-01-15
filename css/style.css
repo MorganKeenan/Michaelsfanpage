@@ -1,0 +1,14 @@
+
+h2 {
+	color:purple;
+	text-align: center;
+}
+h2.heading
+	{color: darkgrey;
+}
+#kingduck {
+		color: black; 
+		font-size: 22;
+		border: 2px;
+			}
+
